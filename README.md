@@ -1,2 +1,2 @@
 # BookRooms
-www.bookrooms.com
+www.bookhotel.com
