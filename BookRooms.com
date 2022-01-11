@@ -10,7 +10,7 @@
 		<neta charset="utf-8">
 		</head>
 		<body><br>
-			<h1> BookRooms.com </h1>
+			<h1> BookHotel.com </h1>
 		<neta charset="utf-8">
 <img src=""><br>
 
